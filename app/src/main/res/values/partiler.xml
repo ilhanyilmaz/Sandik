@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="partiler">
+        <item>CHP</item>
+        <item>HDP</item>
+        <item>MHP</item>
+        <item>AKP</item>
+        <item>VATAN</item>
+        <item>DIGER</item>
+    </string-array>
+</resources>
